@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/BonsonDem/React-App/static/css/main.073c9b0a.css",
-    "main.js": "/BonsonDem/React-App/static/js/main.d226c2fd.js",
-    "static/js/787.28cb0dcd.chunk.js": "/BonsonDem/React-App/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/BonsonDem/React-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/BonsonDem/React-App/index.html",
-    "main.073c9b0a.css.map": "/BonsonDem/React-App/static/css/main.073c9b0a.css.map",
-    "main.d226c2fd.js.map": "/BonsonDem/React-App/static/js/main.d226c2fd.js.map",
-    "787.28cb0dcd.chunk.js.map": "/BonsonDem/React-App/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/React-App/static/css/main.073c9b0a.css",
+    "main.js": "/React-App/static/js/main.f39b368c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React-App/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/React-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-App/index.html",
+    "main.073c9b0a.css.map": "/React-App/static/css/main.073c9b0a.css.map",
+    "main.f39b368c.js.map": "/React-App/static/js/main.f39b368c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React-App/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d226c2fd.js"
+    "static/js/main.f39b368c.js"
   ]
 }
